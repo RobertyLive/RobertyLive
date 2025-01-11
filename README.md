@@ -1,5 +1,7 @@
-# HI! Welcome to my Github profile :v:
-## I'm Roberty Live
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=30&duration=5000&pause=1000&color=82AAFF&center=true&vCenter=true&width=1000&height=35&lines=HI!+Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&duration=5000&pause=1000&color=82AAFF&center=true&width=1200&lines=I'm+Roberty+Live)](https://git.io/typing-svg)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eu_robertty) 
 
